@@ -16,6 +16,8 @@ The closer to the equator the stronger the Sun! The Stronger the Sun, the darker
 
 4. Global warming - This is a serious problem that can not be ignored!
 
+---
+
 **Every one are allowed to have their opinion, but not every one are allowed to use software under this license, since that requires agreeing to these points! By using free open source software under this license, you are saying that you are in full agreement with these statements!**
 
 ---
@@ -26,4 +28,4 @@ In addition to that include a copy of this text in a text file included with the
 
 Since this license extends the Apache Software License 2.0 also include a copy of that!
 
-This license also allows to put the License text in annotations for languages that support such instead of copying the license text as as source a comments. For JVM languages this means the text also might be available in binaries. *This allowed, not required, just an option!  So source files without license comment, but license annotation instead are as valid!*
+This license also allows to put the License text in annotations for languages that support such instead of copying the license text as as source a comments. For JVM languages this means the text also might be available in binaries. *This allowed, not required, just an option!  So source files without license comment, but license annotation instead are as valid !*
