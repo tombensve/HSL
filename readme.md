@@ -20,6 +20,7 @@ The closer to the equator the stronger the Sun! The Stronger the Sun, the darker
 **Skin color is not about race! It is just an adaption to the environment we live in!**
 
 4. Global warming - This is a serious problem that can not be ignored!
+5. No government what so ever, have the right to kill its own citizens!
 
 ---
 
