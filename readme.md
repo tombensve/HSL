@@ -1,4 +1,4 @@
-[HSL 1.0](https://tombensvebloggish.craft.me/allhumanslic)
+[HSL 1.0](https://tombensvebloggish.craft.me/hsl)
 
 # Human Software License 1.0
 
